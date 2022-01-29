@@ -1,0 +1,31 @@
+.list-group {
+    padding-right: 0px;
+}
+
+.input-search {
+    margin-left: 0px;
+}
+
+input {
+    border-radius: 50px;
+}
+
+.name-search:hover {
+    cursor: pointer;
+    opacity: 0.7;
+}
+
+.age-search:hover {
+    cursor: pointer;
+    opacity: 0.7;
+}
+
+.faculty-search:hover {
+    cursor: pointer;
+    opacity: 0.7;
+}
+
+.start-training-search:hover {
+    cursor: pointer;
+    opacity: 0.7;
+}
